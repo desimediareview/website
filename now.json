@@ -1,6 +1,6 @@
 {
 	"name": "desimediareview",
-	"version": 2",
+	"version": 2,
 	"alias": "desimediareview",
 	"routes": [
 		{"src": "/", "dest": "index.html"}
